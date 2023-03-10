@@ -1,0 +1,20 @@
+.bg_nav{
+    background-color: #416a59
+}
+#name_in_nav{
+    padding-left: 20px;
+    font-weight: 360;
+}
+.unais_image{
+    height: 340px;
+    width: 340px;
+}
+.green_text{
+    color: #416a59;
+}
+.fontforAll{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about_me{
+    padding-left: 15%;
+}
